@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42244'
     url: http://www.gutenberg.org/2009/agents/42244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44948#Abstracts-of-Papers-Read-at-the-First-International-Eugenics-CongressUniversity-of-London-Jul_
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
 identifiers:
